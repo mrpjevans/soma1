@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+#
+# Code by https://github.com/rockymadden/somafm-cli
+#
+
 bindir=
 logdir=
 
